@@ -22,7 +22,7 @@ Este projeto foi construído utilizando as seguintes ferramentas:
 ## 🎨 Demonstração
 
 Você pode visualizar o projeto online através do link abaixo:
-👉 [LINK PARA O SEU SITE AQUI (ex: GitHub Pages)]
+👉 [LINK PARA O SEU SITE AQUI https://jotap.vercel.app/]
 
 ---
 
