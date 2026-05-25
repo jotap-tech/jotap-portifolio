@@ -13,7 +13,7 @@ export const Projects = () => {
           </h2>
 
           <div className="grid grid-cols-1 gap-6">
-            <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-green-500/30 hover:shadow-[0_2px_8px_rgba(34,197,94,0.2)] transition">
+            <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               
               <h3 className="text-xl font-bold mb-2">
                 User CRUD API
@@ -37,8 +37,8 @@ export const Projects = () => {
                 ].map((tech, key) => (
                   <span
                     key={key}
-                    className="bg-green-500/10 text-green-400 py-1 px-3 rounded-full text-sm hover:bg-green-500/20 
-                    hover:shadow-[0_2px_8px_rgba(34,197,94,0.1)] transition-all"
+                    className="bg-blue-500/10 text-blue-400 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 
+                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
                   >
                     {tech}
                   </span>
@@ -50,7 +50,7 @@ export const Projects = () => {
                   href="http://auth-api-bay-seven.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-green-400 hover:text-green-300 transition-colors my-4"
+                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   Live Demo →
                 </a>
