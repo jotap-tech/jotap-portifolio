@@ -31,6 +31,14 @@ export const Home = () => {
             >
               Contact Me
             </a>
+            <a
+              href="https://github.com/jotap-tech"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="border border-gray-700 text-white py-3 px-6 rounded font-medium transition-all duration-200 hover:-translate-y-0.5 hover:border-blue-500 hover:text-blue-500"
+            >
+              GitHub
+            </a>
           </div>
         </div>
       </RevealOnScroll>
